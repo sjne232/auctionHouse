@@ -10,9 +10,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "3709b547a9b6e451212ca601b5e2d8bf
 "assets/assets/fonts/Lexend%2520Deca-Medium.ttf": "142fc585b5cfbcb3b5b41fb0e89a347e",
 "assets/assets/fonts/Poppins-Medium.ttf": "bf59c687bc6d3a70204d3944082c5cc0",
 "assets/assets/fonts/Poppins-Regular.ttf": "093ee89be9ede30383f39a899c485a82",
-"assets/assets/images/app_launcher_icon.png": "920dd97e1018500b6afa5ff2214515b1",
+"assets/assets/images/app_launcher_icon.png": "bbb3f079bee7a4c538c0dfcfc8128f11",
 "assets/assets/images/favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"assets/assets/images/splashScreen@2x.png": "f281b4af731b33b30ad47703ab8dd022",
+"assets/assets/images/splashScreen@2x.png": "bbb3f079bee7a4c538c0dfcfc8128f11",
 "assets/assets/lottie_animations/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/pdfs/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/rive_animations/favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -34,12 +34,12 @@ const RESOURCES = {"assets/AssetManifest.bin": "3709b547a9b6e451212ca601b5e2d8bf
 "canvaskit/skwasm.worker.js": "51253d3321b11ddb8d73fa8aa87d3b15",
 "favicon.png": "2704101cb06ce66e2000356a312be25c",
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
-"icons/app_launcher_icon.png": "920dd97e1018500b6afa5ff2214515b1",
+"icons/app_launcher_icon.png": "bbb3f079bee7a4c538c0dfcfc8128f11",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "9a70a9641cece574d67821a8a421d4de",
-"/": "9a70a9641cece574d67821a8a421d4de",
-"main.dart.js": "cdec214423b9a1363e32bddc45347f4b",
+"index.html": "082049875e1fa5468ffbd594ab887ba4",
+"/": "082049875e1fa5468ffbd594ab887ba4",
+"main.dart.js": "aa590cb69335f3d205771de3f77be3ef",
 "version.json": "26c715650bf99955d58afdf0aef3866a"};
 // The application shell files that are downloaded before a service worker can
 // start.
